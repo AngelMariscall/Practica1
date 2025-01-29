@@ -1,0 +1,20 @@
+{
+  "name": "practica-1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Angel",
+  "license": "ISC",
+  "description": "Hola mundo",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AngelMariscall/Practica1.git"
+  },
+  "bugs": {
+    "url": "https://github.com/AngelMariscall/Practica1/issues"
+  },
+  "homepage": "https://github.com/AngelMariscall/Practica1#readme"
+}
